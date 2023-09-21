@@ -1,1 +1,0 @@
-import{e as t,ah as c,a2 as e,a8 as r,V as n,Y as a,ai as i,a3 as u,aj as l}from"./index-07e40560.js";const f=t({__name:"index",setup(p){const{keepAliveComps:s}=c();return(_,m)=>(a(),e(n(l),null,{default:r(({Component:o})=>[(a(),e(i,{include:n(s)},[(a(),e(u(o)))],1032,["include"]))]),_:1}))}});export{f as default};
